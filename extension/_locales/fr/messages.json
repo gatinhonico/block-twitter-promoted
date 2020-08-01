@@ -1,0 +1,32 @@
+{
+  "extensionName": {
+    "message": "Block Twitter Promoted"
+  },
+  "extensionDescription": {
+    "message": "Bloquez les contenus promotionnels, y compris les tweets, les tendances , les retweets; masquez également les contenus plus ennuyeux et déplacez-vous directement aux derniers tweets sur la page d'accueil de Twitter."
+  },
+  "optionTitle": {
+    "message": "Options pour bloquer les contenus promotionnels de Twitter"
+  },
+  "optionHidePromoted": {
+    "message": "Masquer le contenu promotionnels"
+  },
+  "optionHideTimelineSuggestionTweet": {
+    "message": "Masquer les tweets de suggestion sur la chronologie (Par exemple: Quelqu'un a aimé tweet)"
+  },
+  "optionHideTimelineModule": {
+    "message": "Masquer les modules de la chronologie (Par exemple: Qui suivre)"
+  },
+  "optionHideTimelineInjections": {
+    "message": "Hide injections on timeline (e.g. Turn on notifications)"
+  },
+  "optionHideTrendCard": {
+    "message": "Masquer les cartes dans les tendances"
+  },
+  "optionUseLatestTimeline": {
+    "message": "Toujours afficher les derniers tweets au lieu des meilleurs tweets"
+  },
+  "optionEnableDebug": {
+    "message": "Afficher les informations de débogage dans la console"
+  }
+}
